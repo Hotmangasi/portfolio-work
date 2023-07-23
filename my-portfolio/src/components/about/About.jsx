@@ -1,5 +1,6 @@
 import React from 'react'
 import './about.css'
+import ME1 from '../../assets/Foto.jpg'
 import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
@@ -14,7 +15,7 @@ function About() {
       <div className="container about__container">
         <div className="about__me">
               <div className="about__me-image">
-                    <img src={ME} alt="About Image" />
+                    <img src={ME1} alt="About Image" />
               </div>
         </div>
         <div className="about__content">
@@ -22,13 +23,13 @@ function About() {
               <article className='about__card'>
                 <FaAward className='about__icon'/>
                 <h5>Experience</h5>
-                <small>3+ Years Working</small>
+                <small>1+ Years Working</small>
               </article>
 
               <article className='about__card'>
                 <FiUsers className='about__icon'/>
                 <h5>Clients</h5>
-                <small>200+ Worldwide</small>
+                <small>10+ Indonesia</small>
               </article>
 
               <article className='about__card'>
@@ -38,7 +39,7 @@ function About() {
               </article>
             </div>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam expedita, id fugiat quibusdam velit adipisci nostrum tenetur obcaecati impedit rem repellat animi ut veritatis, et sed. Enim in reprehenderit quod.</p>
+            <p>The development of technological progress is inseparable from life. So it takes adjustments to be able to keep up with it. It takes a reliable programmer who has a problem-solving spirit and also a consistent attitude. I am someone who has a problem-solving attitude and is consistent in anything. I also always liken it to an empty glass that can always be filled with various things that can help my development. And also I have a vision to be able to help the community with technology and make myself useful for society and society.</p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

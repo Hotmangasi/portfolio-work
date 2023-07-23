@@ -11,42 +11,42 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Hotmangasi',
-    github: 'https://github.com',
-    demo : 'https://dribble.com/shots/16673715-Cripto-currency-dashboard-and-financial-data-visualization'
+    title: 'Eduworld',
+    github: 'https://github.com/Kelompok14-LMS',
+    demo : 'https://educate-the-world.netlify.app/'
   },
   {
     id: 1,
     image: IMG2,
-    title: 'Putra',
+    title: 'Project 2',
     github: 'https://github.com',
     demo : 'https://dribble.com/shots/16673715-Cripto-currency-dashboard-and-financial-data-visualization'
   },
   {
     id: 1,
     image: IMG3,
-    title: 'Sucipto',
+    title: 'Project 3',
     github: 'https://github.com',
     demo : 'https://dribble.com/shots/16673715-Cripto-currency-dashboard-and-financial-data-visualization'
   },
   {
     id: 1,
     image: IMG4,
-    title: 'Manurung',
+    title: 'Project 4',
     github: 'https://github.com',
     demo : 'https://dribble.com/shots/16673715-Cripto-currency-dashboard-and-financial-data-visualization'
   },
   {
     id: 1,
     image: IMG5,
-    title: 'Junior',
+    title: 'Project 5',
     github: 'https://github.com',
     demo : 'https://dribble.com/shots/16673715-Cripto-currency-dashboard-and-financial-data-visualization'
   },
   {
     id: 1,
     image: IMG6,
-    title: 'Hehehe',
+    title: 'Project 6',
     github: 'https://github.com',
     demo : 'https://dribble.com/shots/16673715-Cripto-currency-dashboard-and-financial-data-visualization'
   },

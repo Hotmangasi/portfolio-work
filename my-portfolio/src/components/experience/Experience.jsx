@@ -69,7 +69,7 @@ function Experience() {
                   <article className='experience__details'>
                    <BsPatchCheckFill className='experience__details-icon' />
                    <div>
-                   <h4>MongoDB</h4>
+                   <h4>Laravel</h4>
                    <small className='text-light'>Intermediate</small> 
                     </div>    
                   </article>
@@ -97,7 +97,7 @@ function Experience() {
                   <article className='experience__details'>
                    <BsPatchCheckFill className='experience__details-icon' />
                    <div>
-                   <h4>Golang</h4>
+                   <h4>Flask</h4>
                    <small className='text-light'>Experienced</small>
                     </div>     
                   </article>
