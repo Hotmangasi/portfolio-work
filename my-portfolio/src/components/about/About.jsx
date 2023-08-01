@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import ME1 from '../../assets/Foto.jpg'
-import ME from '../../assets/me-about.jpg'
+// import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {PiFolders} from 'react-icons/pi'
